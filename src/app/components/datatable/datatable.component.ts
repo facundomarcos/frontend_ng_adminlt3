@@ -22,7 +22,7 @@ export class DatatableComponent implements OnDestroy,  OnInit {
   ngOnInit(): void {
     this.dtOptions = {
       pagingType: 'full_numbers',
-      pageLength: 5,
+      pageLength: 10,
       language: {
         url: '//cdn.datatables.net/plug-ins/1.10.22/i18n/Spanish.json'
       }
