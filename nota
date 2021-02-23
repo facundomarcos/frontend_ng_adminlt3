@@ -1,0 +1,13 @@
+generar un componente
+    ng generate component panel/admin --skip-tests=true
+    ng generate component panel/navbar --skip-tests=true
+    ng generate component panel/sidebar --skip-tests=true
+    ng generate component panel/content --skip-tests=true
+    ng generate component panel/footer --skip-tests=true
+    ng generate component panel/controlsidebar --skip-tests=true
+    ng generate component panel/tabla-categoria --skip-tests=true
+    ng generate component almacen/categoria --skip-tests=true
+
+    ng g c components/datatable --skip-tests=true -is
+
+    
